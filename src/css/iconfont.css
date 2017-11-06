@@ -67,7 +67,7 @@
 
 .icon-at-sign:before { content: "\e830"; }
 
-.icon-bar-chart-:before { content: "\e831"; }
+.icon-bar-chart-2:before { content: "\e831"; }
 
 .icon-battery-charging:before { content: "\e832"; }
 
@@ -173,7 +173,7 @@
 
 .icon-droplet:before { content: "\e865"; }
 
-.icon-edit-:before { content: "\e866"; }
+.icon-edit-2:before { content: "\e866"; }
 
 .icon-edit:before { content: "\e867"; }
 
@@ -229,7 +229,7 @@
 
 .icon-layout:before { content: "\e881"; }
 
-.icon-link-:before { content: "\e882"; }
+.icon-link-2:before { content: "\e882"; }
 
 .icon-life-buoy:before { content: "\e883"; }
 
@@ -247,11 +247,9 @@
 
 .icon-mail:before { content: "\e88a"; }
 
-.icon-maximize-:before { content: "\e88b"; }
+.icon-maximize-2:before { content: "\e88b"; }
 
 .icon-map:before { content: "\e88c"; }
-
-.icon-maximize:before { content: "\e88d"; }
 
 .icon-map-pin:before { content: "\e88e"; }
 
@@ -261,7 +259,7 @@
 
 .icon-message-square:before { content: "\e891"; }
 
-.icon-minimize-:before { content: "\e892"; }
+.icon-minimize-2:before { content: "\e892"; }
 
 .icon-mic-off:before { content: "\e893"; }
 
@@ -285,7 +283,7 @@
 
 .icon-music:before { content: "\e89d"; }
 
-.icon-navigation-:before { content: "\e89e"; }
+.icon-navigation-2:before { content: "\e89e"; }
 
 .icon-navigation:before { content: "\e89f"; }
 
@@ -353,7 +351,7 @@
 
 .icon-scissors:before { content: "\e8bf"; }
 
-.icon-share-:before { content: "\e8c0"; }
+.icon-share-2:before { content: "\e8c0"; }
 
 .icon-share:before { content: "\e8c1"; }
 
@@ -405,7 +403,7 @@
 
 .icon-toggle-right:before { content: "\e8d9"; }
 
-.icon-trash-:before { content: "\e8da"; }
+.icon-trash-2:before { content: "\e8da"; }
 
 .icon-trash:before { content: "\e8db"; }
 
@@ -447,7 +445,7 @@
 
 .icon-volume-x:before { content: "\e8ee"; }
 
-.icon-volume-:before { content: "\e8ef"; }
+.icon-volume-2:before { content: "\e8ef"; }
 
 .icon-volume-1:before { content: "\e8f0"; }
 
@@ -479,3 +477,28 @@
 
 .icon-headphones:before { content: "\e8fe"; }
 
+.icon-underline:before { content: "\e8ff"; }
+
+.icon-italic:before { content: "\e900"; }
+
+.icon-bold:before { content: "\e901"; }
+
+.icon-crop:before { content: "\e902"; }
+
+.icon-help-circle:before { content: "\e903"; }
+
+.icon-paperclip:before { content: "\e904"; }
+
+.icon-shopping-cart:before { content: "\e905"; }
+
+.icon-tv:before { content: "\e906"; }
+
+.icon-wifi-off:before { content: "\e907"; }
+
+.icon-minimize:before { content: "\e88d"; }
+
+.icon-maximize:before { content: "\e908"; }
+
+.icon-gitlab:before { content: "\e909"; }
+
+.icon-sliders:before { content: "\e90a"; }
