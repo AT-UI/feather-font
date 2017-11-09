@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>star-on</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1517" height="2431"></rect>
+        <filter x="-4.3%" y="-2.4%" width="108.5%" height="105.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="-281" y="-520" width="760" height="580"></rect>
+        <filter x="-8.5%" y="-10.1%" width="117.0%" height="122.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BG" transform="translate(-647.000000, -775.000000)">
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <polygon fill="#4AAAF2" points="1517 0 1517 2431 0 2431"></polygon>
+        </g>
+        <g id="Box-1">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+        <g id="star-on" fill-rule="nonzero" fill="#000000">
+            <path d="M11.1032927,1.55678692 C11.470128,0.814404361 12.529872,0.814404361 12.8967073,1.55678692 L15.7542614,7.33975763 L22.1446282,8.27281813 C22.9645429,8.39253427 23.2913263,9.39931021 22.6977328,9.97685917 L18.0745218,14.4751068 L19.1656086,20.8299734 C19.3057271,21.6460721 18.4481783,22.2683766 17.7145487,21.882976 L12,18.8809288 L6.28545128,21.882976 C5.55182171,22.2683766 4.69427286,21.6460721 4.83439138,20.8299734 L5.92547821,14.4751068 L1.3022672,9.97685917 C0.708673672,9.39931021 1.03545711,8.39253427 1.85537179,8.27281813 L8.24573863,7.33975763 L11.1032927,1.55678692 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

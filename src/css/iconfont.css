@@ -502,3 +502,7 @@
 .icon-gitlab:before { content: "\e909"; }
 
 .icon-sliders:before { content: "\e90a"; }
+
+.icon-star-on:before { content: "\e90b"; }
+
+.icon-heart-on:before { content: "\e90c"; }
